@@ -9,7 +9,7 @@ Ten Claude skills that run a paid ads client from the kickoff call to month two.
 | 1 | [The Onboarder](skills/client-onboarder/SKILL.md) | Onboarding | Turns your kickoff call into a one page Client Brief plus the access checklist your client finishes on day one. |
 | 2 | [The Offer Builder](skills/offer-builder/SKILL.md) | Onboarding | Writes the one offer the ads will run, with a real reason to act now. |
 | 3 | [The Copywriter](skills/ad-copywriter/SKILL.md) | Creative | Writes the ads in your client's voice: five angles, each with primary text, headlines and a description. |
-| 4 | [The Creative Director](skills/creative-director/SKILL.md) | Creative | Writes 20 hooks and shot by shot briefs your client can film on a phone in one afternoon. |
+| 4 | [The Creative Director](skills/creative-director/SKILL.md) | Creative | Writes 20 hooks plus three video ads and three image ads, with the prompts to make them in Higgsfield. |
 | 5 | [The Page Writer](skills/page-writer/SKILL.md) | Creative | Writes the landing page, lead form and thank you page the ads send people to. |
 | 6 | [The Media Buyer](skills/media-buyer/SKILL.md) | Campaigns | Lays out the campaign (budget, audience, structure, naming, tracking) as a build sheet for Ads Manager. |
 | 7 | [The Speed to Lead Rep](skills/speed-to-lead/SKILL.md) | Campaigns | Writes the call script, texts and emails that reply to every new lead in five minutes. |

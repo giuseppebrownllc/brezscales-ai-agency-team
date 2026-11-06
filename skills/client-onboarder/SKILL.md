@@ -72,7 +72,7 @@ Words or claims to avoid:
 
 OWNER STORY AND PROOF
 Why they started:
-Who will be on camera:
+Who appears in the ads (owner, staff, nobody) and their written OK for AI images of them:
 License, insurance, years in business, warranties, awards (with source):
 
 COMPLIANCE FLAGS (fill from the niche, even if nobody mentioned it)
@@ -80,7 +80,7 @@ Housing, real estate, mortgage, loans or jobs = Meta Special Ad Category:
 Health, dental, med spa, cosmetic = no before and after claims, no promised results, never "you" plus a condition:
 
 REAL ASSETS THEY HAVE
-Logo / photos of real work / videos / reviews (Google, Facebook) they will share:
+Logo / photos of the people who'll appear (1 to 3 each) / photos of their work / reviews (Google, Facebook) they will share:
 
 THE OFFER
 [blank until the Offer Builder runs]
@@ -98,7 +98,7 @@ A checklist the client can finish in under 30 minutes, written so a non technica
 3. Ad account: the client owns it and gives the agency partner access (Business Settings, Partners, Give a partner access, using the agency's Business ID: `[AGENCY BUSINESS ID]`). The client's card goes on the ad account, so ad spend is billed by Meta directly.
 4. Meta Pixel (dataset) on the website, if ads will send people to their site. No website: skip the Pixel. Leads come through a Meta instant form, which needs a privacy policy link, so ask for theirs or offer to write one.
 5. Where leads should go: the phone number and email that get every new lead, and the booking link.
-6. Brand kit: logo, brand colors, 10 or more real photos or videos of their work, team and location.
+6. Brand kit: logo, brand colors, and 1 to 3 clear photos of the owner and of any staff who'll appear in the ads, each with their written OK to make AI images of them.
 7. Three to five real reviews they are happy to show.
 8. A lead log (a shared Google Sheet): date, name, called, booked, showed, sold, job value. The client fills in what happens after each lead. Every report runs on it.
 
